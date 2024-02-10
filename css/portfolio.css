@@ -2,7 +2,7 @@
 :root {
   --header-height: 3rem;
   --font-semi: 600;
-  --hue-color: 111;
+  --hue-color: 222;
   --first-color: hsl(var(--hue-color), 89%, 60%);
   --second-color: hsl(var(--hue-color), 56%, 12%);
   --body-font: "Poppins", sans-serif;
@@ -86,6 +86,7 @@ img {
   padding-bottom: 2rem;
 }
 
+/*===== LAYOUT =====*/
 .bd-grid {
   max-width: 1024px;
   display: grid;
