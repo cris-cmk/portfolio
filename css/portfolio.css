@@ -467,4 +467,8 @@ img {
   .home__img {
     width: 450px;
   }
+  .error_text {
+    background-color: red;
+    margin-top: 200000px;
+  }
 }
